@@ -1,0 +1,3 @@
+Voici mon fichier d'introduction.
+Si je savais programmer en JAVA, je vous aurais bien créer une petite classe, mais c'est l'objet du cours suivant.
+Donc il faudre attendre encore un peu.
